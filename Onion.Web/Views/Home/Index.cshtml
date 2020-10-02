@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Oninon.Web.Services.ProductDto>
+
+@{
+    ViewData["Title"] = "لیست";
+}
+
+
+
+
+<div class="row">
+    <div class="col">
+        <div class="card shadow">
+            <div class="card-header border-0">
+
+                <div class="row align-items-center">
+                    <div class="col-3">
+                        <h3 class="mb-0">لیست محصولات</h3>
+                    </div>
+                    <div class="col-6">
+                        <form asp-action="Index">
+                            <label>جستجو بر اساس نام</label>
+                            <input name="name" />
+                            <button class="btn btn-sm btn-warning" type="submit">جستجو</button>
+                        </form>
+                     
+                    </div>
+                    <div class="col-3 text-left">
+                        <a href="~/Home/Create" class="btn btn-sm btn-primary">ثبت محصول</a>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table align-items-center table-flush">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">عنوان</th>
+                            <th scope="col">توضیحات</th>
+                            <th scope="col">قیمت</th>
+                            <th>عملیات</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Price)
+                            </td>
+
+
+                            <td class="text-right">
+                                <div class="dropdown">
+                                    <a class="btn btn-sm btn-icon-only text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="fas fa-ellipsis-v"></i>
+                                    </a>
+                                    <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
+                                        <a class="dropdown-item" href="/home/update/@item.Id">
+                                            <i class="ni ni-ruler-pencil"></i>
+                                            <span>ویرایش</span>
+                                        </a>
+
+                                        <a class="dropdown-item" href="/home/delete/@item.Id">
+                                            <i class="ni ni-fat-remove"></i>
+                                            <span>حذف</span>
+                                        </a>
+
+
+
+
+
+                                    </div>
+
+
+                                </div>
+                            </td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+</div>
+

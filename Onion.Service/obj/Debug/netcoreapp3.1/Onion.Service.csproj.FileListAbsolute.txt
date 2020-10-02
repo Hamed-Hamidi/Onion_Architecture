@@ -1,0 +1,14 @@
+D:\Onion\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Service.deps.json
+D:\Onion\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Service.dll
+D:\Onion\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Service.pdb
+D:\Onion\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Data.dll
+D:\Onion\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Repository.dll
+D:\Onion\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Repository.pdb
+D:\Onion\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Data.pdb
+D:\Onion\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.csprojAssemblyReference.cache
+D:\Onion\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.csproj.CoreCompileInputs.cache
+D:\Onion\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.AssemblyInfoInputs.cache
+D:\Onion\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.AssemblyInfo.cs
+D:\Onion\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.csproj.CopyComplete
+D:\Onion\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.dll
+D:\Onion\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.pdb

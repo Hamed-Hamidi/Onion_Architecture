@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="wwwroot\js\plugins\prismjs\components\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\autolinker\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\autoloader\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\command-line\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\copy-to-clipboard\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\custom-class\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\data-uri-highlight\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\file-highlight\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\highlight-keywords\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\jsonp-highlight\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\keep-markup\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\line-highlight\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\line-numbers\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\normalize-whitespace\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\previewers\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\remove-initial-line-feed\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\show-invisibles\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\show-language\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\toolbar\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\unescaped-markup\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\plugins\wpd\" />
+    <Folder Include="wwwroot\js\plugins\prismjs\themes\" />
+  </ItemGroup>
+
+</Project>

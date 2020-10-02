@@ -1,0 +1,15 @@
+D:\Onion\Onion.Repository\bin\Debug\netcoreapp3.1\Onion.Data.dll
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.csprojAssemblyReference.cache
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.AssemblyInfoInputs.cache
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.AssemblyInfo.cs
+D:\Onion\Onion.Repository\bin\Debug\netcoreapp3.1\Onion.Repository.deps.json
+D:\Onion\Onion.Repository\bin\Debug\netcoreapp3.1\Onion.Repository.dll
+D:\Onion\Onion.Repository\bin\Debug\netcoreapp3.1\Onion.Repository.pdb
+D:\Onion\Onion.Repository\bin\Debug\netcoreapp3.1\Onion.Data.pdb
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.csproj.CopyComplete
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.dll
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.pdb
+D:\Onion\Onion.Repository\bin\Debug\netcoreapp3.1\Onion.Repository.runtimeconfig.json
+D:\Onion\Onion.Repository\bin\Debug\netcoreapp3.1\Onion.Repository.runtimeconfig.dev.json
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.csproj.CoreCompileInputs.cache
+D:\Onion\Onion.Repository\obj\Debug\netcoreapp3.1\Onion.Repository.genruntimeconfig.cache

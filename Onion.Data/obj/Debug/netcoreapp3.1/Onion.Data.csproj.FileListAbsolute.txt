@@ -1,0 +1,8 @@
+D:\Onion\Onion.Data\bin\Debug\netcoreapp3.1\Onion.Data.deps.json
+D:\Onion\Onion.Data\bin\Debug\netcoreapp3.1\Onion.Data.dll
+D:\Onion\Onion.Data\bin\Debug\netcoreapp3.1\Onion.Data.pdb
+D:\Onion\Onion.Data\obj\Debug\netcoreapp3.1\Onion.Data.csproj.CoreCompileInputs.cache
+D:\Onion\Onion.Data\obj\Debug\netcoreapp3.1\Onion.Data.AssemblyInfoInputs.cache
+D:\Onion\Onion.Data\obj\Debug\netcoreapp3.1\Onion.Data.AssemblyInfo.cs
+D:\Onion\Onion.Data\obj\Debug\netcoreapp3.1\Onion.Data.dll
+D:\Onion\Onion.Data\obj\Debug\netcoreapp3.1\Onion.Data.pdb
